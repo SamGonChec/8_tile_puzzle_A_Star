@@ -1,0 +1,9 @@
+﻿  Graph.cpp
+E:\Folder\USB Backup\Spring2021\461\Program1461SamuelGonzalezCheca\Program1461SamuelGonzalezCheca\Graph.cpp(77,27): warning C4018: '<': signed/unsigned mismatch
+E:\Folder\USB Backup\Spring2021\461\Program1461SamuelGonzalezCheca\Program1461SamuelGonzalezCheca\Graph.cpp(101,27): warning C4018: '<': signed/unsigned mismatch
+E:\Folder\USB Backup\Spring2021\461\Program1461SamuelGonzalezCheca\Program1461SamuelGonzalezCheca\Graph.cpp(126,27): warning C4018: '<': signed/unsigned mismatch
+E:\Folder\USB Backup\Spring2021\461\Program1461SamuelGonzalezCheca\Program1461SamuelGonzalezCheca\Graph.cpp(150,27): warning C4018: '<': signed/unsigned mismatch
+  Puzzle.cpp
+  Generating Code...
+E:\Folder\USB Backup\Spring2021\461\Program1461SamuelGonzalezCheca\Program1461SamuelGonzalezCheca\Puzzle.cpp(74): warning C4715: 'Puzzle::findEmpty': not all control paths return a value
+  Program1461SamuelGonzalezCheca.vcxproj -> E:\Folder\USB Backup\Spring2021\461\Program1461SamuelGonzalezCheca\Debug\Program1461SamuelGonzalezCheca.exe
