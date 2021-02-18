@@ -40,8 +40,8 @@ void Graph::solvePuzzle(){
         }
         
         Puzzle* parent = puzzleQueue.top().parent;
-        std::cout << "Puzzle Solved: \n";
-        parent->outputPuzzle();
+        std::cout << "Puzzle Solved:";
+        puzzleQueue.top().outputPuzzle();
         
         while (parent != NULL)
         {
